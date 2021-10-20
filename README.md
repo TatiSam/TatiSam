@@ -2,7 +2,7 @@
 
 ### Skils and Tools
 
-![java](https://img.shields.io/badge/Java-A8CA35?style=flat-square&logo=Java)
+![java](https://img.shields.io/badge/Java-030303?style=plastic&logo=Java)
 ![fullstack](https://img.shields.io/badge/Fullstack-A8CA35?style=flat-square&logo=fullstack)
 ![javascript](https://img.shields.io/badge/JavaScript-A8CA35?style=flat-square&logo=JavaScript)
 ![reactJS](https://img.shields.io/badge/React-A8CA35?style=flat-square&logo=react)
