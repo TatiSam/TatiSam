@@ -1,4 +1,4 @@
-## I'm a java fullstack developer 
+## Hi, I'm a beginner java fullstack developer 
 
 ### Skils and Tools
 
