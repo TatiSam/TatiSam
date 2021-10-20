@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Tatiana Samoilenko
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java fullstack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+## Hello, I’m Tatiana Samoilenko
+### I'm a java fullstack developer
+
+### Skils and Tools
+[HTML]
 
 <!---
 TatiSam/TatiSam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
