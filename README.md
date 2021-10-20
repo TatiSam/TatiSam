@@ -2,10 +2,11 @@
 ### I'm a java fullstack developer
 
 ### Skils and Tools
-![html5](https://img.shields.io/badge/HTML5-090909?style=flat&logo=appveyor)
-![css3](https://img.shields.io/badge/CSS3-090909?style=flat&logo=appveyor)
-![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=flat&logo=appveyor)
-![reactJS](https://img.shields.io/badge/reactJS-090909?style=flat&logo=appveyor)
+![java](https://img.shields.io/badge/Java-090909)
+![html5](https://img.shields.io/badge/HTML5-090909)
+![css3](https://img.shields.io/badge/CSS3-090909?)
+![javascript](https://img.shields.io/badge/JS-090909)
+![reactJS](https://img.shields.io/badge/React-090909)
 
 <!---
 TatiSam/TatiSam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
