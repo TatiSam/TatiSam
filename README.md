@@ -2,7 +2,7 @@
 ### I'm a java fullstack developer
 
 ### Skils and Tools
-![java](https://img.shields.io/badge/Java-090909)
+![java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java)
 ![html5](https://img.shields.io/badge/HTML5-090909)
 ![css3](https://img.shields.io/badge/CSS3-090909?)
 ![javascript](https://img.shields.io/badge/JS-090909)
