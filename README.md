@@ -9,8 +9,6 @@
 ![html5](https://img.shields.io/badge/HTML5-090909?style=flat&logo=HTML5)
 ![css3](https://img.shields.io/badge/CSS3-090909?style=flat&logo=CSS3)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="83e1a418-f6fa-4391-97b6-9053728ec20e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 ### Follow me
 
 [![facebook](https://img.shields.io/badge/Facebook-090909?style=flat&logo=facebook)](https://www.facebook.com/profile.php?id=100004365693157)
