@@ -12,6 +12,6 @@
 ### Follow me
 
 [![facebook](https://img.shields.io/badge/Facebook-090909?style=flat&logo=facebook)](https://www.facebook.com/profile.php?id=100004365693157)
-![https://www.linkedin.com/in/tati-sam](https://img.shields.io/badge/LinkedIn-090909?style=flat&logo=linkedin)
+[![linkedin](https://img.shields.io/badge/LinkedIn-090909?style=flat&logo=linkedin)](https://www.linkedin.com/in/tati-sam)
 ![telegram](https://img.shields.io/badge/Telegram-090909?style=flat&logo=telegram)
 
