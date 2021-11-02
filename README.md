@@ -3,7 +3,7 @@
 ### Skils and Tools
 
 ![java](https://img.shields.io/badge/Java-090909?style=flat&logo=Java)
-![sql](https://img.shields.io/badge/Sql-090909?style=flat&logo=sql)
+![sql](https://img.shields.io/badge/SQL-090909?style=flat&logo=sql)
 ![javascript](https://img.shields.io/badge/JavaScript-090909?style=flat&logo=JavaScript)
 ![reactJS](https://img.shields.io/badge/React-090909?style=flat&logo=react)
 ![html5](https://img.shields.io/badge/HTML5-090909?style=flat&logo=HTML5)
