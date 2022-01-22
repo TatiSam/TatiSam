@@ -16,6 +16,5 @@
 ### Follow me
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-090909?style=flat&logo=linkedin)](https://www.linkedin.com/in/tati-sam)
-![telegram](https://img.shields.io/badge/Telegram-090909?style=flat&logo=telegram)
 
 
