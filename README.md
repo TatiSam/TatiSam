@@ -8,7 +8,7 @@
 ![javascript](https://img.shields.io/badge/JavaScript-090909?style=flat&logo=JavaScript)
 ![reactJS](https://img.shields.io/badge/React-090909?style=flat&logo=react)
 ![html5](https://img.shields.io/badge/HTML5-090909?style=flat&logo=HTML5)
-![css3](https://img.shields.io/badge/CSS3-090909?style=flat&logo=CSS3)
+![css3.0](https://img.shields.io/badge/CSS3-090909?style=flat&logo=CSS3)
 ![kotlin](https://img.shields.io/badge/Kotlin-090909?style=flat&logo=Kotlin)
 ![android](https://img.shields.io/badge/Android-090909?style=flat&logo=Android)
 
