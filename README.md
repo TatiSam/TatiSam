@@ -1,4 +1,4 @@
-## Hi, I'm a beginner java fullstack developer 
+## Hi, I'm a beginner java fullstack developer and here you can see my projects
 
 ### Skils and Tools
 
@@ -13,7 +13,7 @@
 ![android](https://img.shields.io/badge/Android-090909?style=flat&logo=Android)
 
 
-### Follow me
+### Social networks
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-090909?style=flat&logo=linkedin)](https://www.linkedin.com/in/tati-sam)
 
